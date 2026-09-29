@@ -1,0 +1,37 @@
+# ram_iso_work_64bit
+
+> Early HTML work on a 64-bit RAM/ISO idea. This wrap points back to the source.
+
+## Purpose
+Give a plain-language door to fitzyracing1/ram_iso_work_64bit.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- 64-bit work
+- RAM / ISO named shelf
+- HTML source
+
+## The actual code
+```
+# source: fitzyracing1/ram_iso_work_64bit
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/ram_iso_work_64bit”
+
+## Decisions the program makes
+- If a reader needs the files → send them to the source
+
+## What a person would notice
+A named wrap on an early 64-bit work door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
